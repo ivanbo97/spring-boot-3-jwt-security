@@ -30,3 +30,5 @@ To build and run the project, follow these steps:
 * Run the project: mvn spring-boot:run 
 
 -> The application will be available at http://localhost:8080.
+
+![image](https://user-images.githubusercontent.com/61833244/229032618-cb9e964a-3f04-4d31-92fe-a31e2d1f7fa1.png)
